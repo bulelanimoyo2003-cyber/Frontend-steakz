@@ -1,0 +1,20 @@
+[
+  {
+    "url": "http://[::1]:5173/",
+    "status": 200,
+    "len": 578,
+    "sample": "<!DOCTYPE html>\r\n<html lang=\"en\">\r\n  <head>\n    <script type=\"module\">import { injectIntoGlobalHook } from \"/@react-refresh\";\ninjectIntoGlobalHook(window);\nwindow.$RefreshReg$ = () => {};\nwindow.$Refr"
+  },
+  {
+    "url": "http://[::1]:5173/branches",
+    "status": 200,
+    "len": 578,
+    "sample": "<!DOCTYPE html>\r\n<html lang=\"en\">\r\n  <head>\n    <script type=\"module\">import { injectIntoGlobalHook } from \"/@react-refresh\";\ninjectIntoGlobalHook(window);\nwindow.$RefreshReg$ = () => {};\nwindow.$Refr"
+  },
+  {
+    "url": "http://[::1]:5173/api/public/branches",
+    "status": 200,
+    "len": 1260,
+    "sample": "[{\"id\":1,\"name\":\"Steakz City Centre\",\"address\":\"1 Main Street, City Centre\",\"phone\":null,\"isActive\":true,\"createdAt\":\"2026-06-07T01:27:02.325Z\",\"updatedAt\":\"2026-06-07T01:27:02.325Z\"},{\"id\":2,\"name\":\""
+  }
+]
